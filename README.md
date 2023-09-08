@@ -22,6 +22,10 @@ BS Computer Science
 2021 - Present
 
 ## Certification
+[Business Analytics with Excel](https://simpli-web.app.link/e/ZeeFQgmiTCb)  
+Skillup Certificate  
+07 September 2023  
+
 [Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0920037B300FACC9109DE63CAFA114605AD715E672C05150B50B31D165AA9867)  
 Oracle Corporation  
 23 November 2022  
@@ -32,7 +36,7 @@ Oracle Corporation
 
 [IBM DB0101EN: SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5ae19970cdca40cca9e1d60bf612c2a5)  
 Cognitive Class  
-October 28, 2022  
+28 October 2022
 
 
 
