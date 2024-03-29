@@ -40,6 +40,7 @@
 
 | Certificate Name | Organization | Date Earned |
 |------------------|--------------|-------------|
+| [Introduction to Data Science](https://www.credly.com/earner/earned/badge/0b7a13b6-ce9d-472d-a397-15310e7cbebf)    | Cisco        | March 29, 2024    |
 | [JavaScript Essentials 1](https://www.credly.com/earner/earned/badge/033e6a08-f874-40b3-95f9-4709df253887)    | Cisco        | March 23, 2024    |
 | [Introduction to SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/e482e143f8a6c05b11c8b781c67c73a53a1bc9c2)    | Datacamp        | November 11, 2023    |
 | [Introduction to ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/177290d0d5ae1e31f751f8e2fbba4b1aa6c45b21)    | Datacamp       | November 11, 2023    |
