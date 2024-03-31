@@ -40,14 +40,14 @@
 
 | Certificate Name | Organization | Date Earned |
 |------------------|--------------|-------------|
-| [Introduction to Data Science](https://www.credly.com/earner/earned/badge/0b7a13b6-ce9d-472d-a397-15310e7cbebf)    | Cisco        | March 29, 2024    |
-| [JavaScript Essentials 1](https://www.credly.com/earner/earned/badge/033e6a08-f874-40b3-95f9-4709df253887)    | Cisco        | March 23, 2024    |
-| [Introduction to SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/e482e143f8a6c05b11c8b781c67c73a53a1bc9c2)    | Datacamp        | November 11, 2023    |
-| [Introduction to ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/177290d0d5ae1e31f751f8e2fbba4b1aa6c45b21)    | Datacamp       | November 11, 2023    |
-| [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/eb166c1a7298c49b7ef1a2c39f877dec05e51f47)    | Datacamp        | November 8, 2023    |
-| [Data Analytics Essentials](https://simpli-web.app.link/e/ZeeFQgmiTCb)    | Cisco        | September 15, 2023    |
-| [Business Analytics with Excel](https://simpli-web.app.link/e/ZeeFQgmiTCb)    | SkillUp        | September 7, 2023    |
-| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/5ae19970cdca40cca9e1d60bf612c2a5)   | Cognitive Class        | October 28, 2022  |
+| [Introduction to Data Science](https://drive.google.com/file/d/1e86lMivOw-I3jp43G3c9IFWLNSpnKFOh/view?usp=sharing)    | Cisco        | March 29, 2024    |
+| [JavaScript Essentials 1](https://drive.google.com/file/d/1WIJX9WBS_pswY8c2kA77IQbDa-DNnrct/view?usp=sharing)    | Cisco        | March 23, 2024    |
+| [Introduction to SQL](https://drive.google.com/file/d/1sxqbbMQYpKD6QEPm9cwyPj97qVYmcLkB/view?usp=sharing)    | Datacamp        | November 11, 2023    |
+| [Introduction to ChatGPT](https://drive.google.com/file/d/1d8Y0PH1ufl2HB86l8c-jje8Y-YGFYplL/view?usp=sharing)    | Datacamp       | November 11, 2023    |
+| [Introduction to Python](https://drive.google.com/file/d/19MfAtlPkQ-mp284tpHMf3kz_-GctiuD-/view?usp=sharing)    | Datacamp        | November 8, 2023    |
+| [Data Analytics Essentials](https://drive.google.com/file/d/1X_Zpo94ZaEYBsXGNKjMwrYiWRxWc-O-Z/view?usp=sharing)    | Cisco        | September 15, 2023    |
+| [Business Analytics with Excel](https://drive.google.com/file/d/1kQP7Mhqk2prCeAo9aNb2xpmuD0iyzHh7/view?usp=sharing)    | SkillUp        | September 7, 2023    |
+| [SQL and Relational Databases 101](https://drive.google.com/file/d/1gms8fL1I8UVWZDby-oTOLVL3uGg04xn7/view?usp=sharing)   | Cognitive Class        | October 28, 2022  |
 
 
 
