@@ -40,6 +40,7 @@
 
 | Certificate Name | Organization | Date Earned |
 |------------------|--------------|-------------|
+| [Java Complete Course Using Visual Studio Code](https://drive.google.com/file/d/1V8zevXLbuwaMxDAPFYaHHZCK4gU7eCx9/view?usp=sharing)    | Udemy        | April 9, 2024    |
 | [Introduction to Cybersecurity](https://drive.google.com/file/d/1buduQpYwiiOZHOZt0vu87vGeoTnBGK0T/view?usp=sharing)    | Cisco        | April 3, 2024    |
 | [Introduction to Data Science](https://drive.google.com/file/d/1e86lMivOw-I3jp43G3c9IFWLNSpnKFOh/view?usp=sharing)    | Cisco        | March 29, 2024    |
 | [JavaScript Essentials 1](https://drive.google.com/file/d/1WIJX9WBS_pswY8c2kA77IQbDa-DNnrct/view?usp=sharing)    | Cisco        | March 23, 2024    |
