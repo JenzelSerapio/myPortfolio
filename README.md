@@ -40,6 +40,7 @@
 
 | Certificate Name | Organization | Date Earned |
 |------------------|--------------|-------------|
+| [Computer Hardware](https://drive.google.com/file/d/15eWD2kHu1u5ZYfHNG9Df5Ft1gSgnme-f/view?usp=sharing)    | Cisco        | May 29, 2024    |
 | [IoT and Digital Transformation](https://drive.google.com/file/d/1emRNaJTRVdPUKBgCikYHq69Ix0Futad7/view?usp=sharing)    | Cisco        | May 25, 2024    |
 | [Cyber Threat Management](https://drive.google.com/file/d/1B6LmAgfWnrrIpV6tBFKKq7-SGuBdrc-e/view?usp=sharing)    | Cisco        | May 24, 2024    |
 | [Java Complete Course Using Visual Studio Code](https://drive.google.com/file/d/1V8zevXLbuwaMxDAPFYaHHZCK4gU7eCx9/view?usp=sharing)    | Udemy        | April 9, 2024    |
