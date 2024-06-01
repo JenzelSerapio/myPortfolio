@@ -40,7 +40,9 @@
 
 | Certificate Name | Organization | Date Earned |
 |------------------|--------------|-------------|
+| [Fortinet Certified Fundamentals in Cybersecurity](https://drive.google.com/file/d/1FyB6G43SNT8MLsg2mILZXmUab1RsAkNo/view?usp=sharing)    | Fortinet        | May 31, 2024    |
 | [FCF - Getting Started with Cybersecurity](https://drive.google.com/file/d/1bG3FBxAhfXuoAmrm0Hll2eEMUfmNvsz1/view?usp=sharing)    | Fortinet        | May 31, 2024    |
+| [FCF - Introduction to Threat Landscape](https://drive.google.com/file/d/1ht39yDAHimit9xYJEQ2doEd57E2ZSWSa/view?usp=sharing)    | Fortinet        | May 30, 2024    |
 | [Computer Hardware](https://drive.google.com/file/d/15eWD2kHu1u5ZYfHNG9Df5Ft1gSgnme-f/view?usp=sharing)    | Cisco        | May 29, 2024    |
 | [IoT and Digital Transformation](https://drive.google.com/file/d/1emRNaJTRVdPUKBgCikYHq69Ix0Futad7/view?usp=sharing)    | Cisco        | May 25, 2024    |
 | [Cyber Threat Management](https://drive.google.com/file/d/1B6LmAgfWnrrIpV6tBFKKq7-SGuBdrc-e/view?usp=sharing)    | Cisco        | May 24, 2024    |
