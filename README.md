@@ -40,6 +40,7 @@
 
 | Certificate Name | Organization | Date Earned |
 |------------------|--------------|-------------|
+| [FCF - Technical Introduction to Cybersecurity](https://drive.google.com/file/d/12qxHBNm6XNNsdh_zd2Gqw9q-XK9e-euQ/view?usp=sharing)    | Fortinet        | June 2, 2024    |
 | [Fortinet Certified Fundamentals in Cybersecurity](https://drive.google.com/file/d/1FyB6G43SNT8MLsg2mILZXmUab1RsAkNo/view?usp=sharing)    | Fortinet        | May 31, 2024    |
 | [FCF - Getting Started with Cybersecurity](https://drive.google.com/file/d/1bG3FBxAhfXuoAmrm0Hll2eEMUfmNvsz1/view?usp=sharing)    | Fortinet        | May 31, 2024    |
 | [FCF - Introduction to Threat Landscape](https://drive.google.com/file/d/1ht39yDAHimit9xYJEQ2doEd57E2ZSWSa/view?usp=sharing)    | Fortinet        | May 30, 2024    |
