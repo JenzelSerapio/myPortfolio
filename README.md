@@ -1,7 +1,10 @@
 ![Header](https://github.com/JenzelSerapio/JenzelSerapio/raw/main/215911.gif)
 <div align="center">
   <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3000&pause=1000&color=4162AC&random=false&width=435&lines=Hi+there!+I+am+Jenzel+Serapio!" alt="Typing SVG" /></a>  <h4> 🌟 A dedicated Computer Science student from New Era University, committed to mastering the intricacies of code and technology while continuously learning and growing. 🌟</h4>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=3000&pause=1000&color=4162AC&random=false&width=435&lines=Hi+there!+I+am+Jenzel+Serapio!" alt="Typing SVG" /></a>  
+  <br>
+<img src="ID Pic 1.jpg" alt="ID Picture" width="150" height="150">
+  <h4> 🌟 A dedicated Computer Science student from New Era University, committed to mastering the intricacies of code and technology while continuously learning and growing. 🌟</h4>
 </div>
 
 <br/>
